@@ -9,7 +9,6 @@ st.caption("Señal directa desde OBS Studio con latencia sub-segundo")
 # --- CONFIGURACIÓN ---
 # Pega aquí el enlace que copiaste de VDO.Ninja (Viewer Link)
 # Debería verse algo como: https://vdo.ninja/?view=xxxxxx
-VDO_NINJA_LINK = "https://vdo.ninja/?view=Xi9FxEq" 
 
 # --- VISUALIZACIÓN ---
 # Usamos un iframe para mostrar el video. 
