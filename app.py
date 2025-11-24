@@ -8,7 +8,7 @@ st.title("📡 CANAL 8 TV ONLINE")
 # --- CONFIGURACIÓN ---
 # Pega aquí el enlace que copiaste de VDO.Ninja (Viewer Link)
 # Debería verse algo como: https://vdo.ninja/?view=xxxxxx
-VDO_NINJA_LINK = st.secrets[VDO_NINJA_LINK]
+VDO_NINJA_LINK = st.secrets["VDO_NINJA_LINK"]
 # --- VISUALIZACIÓN ---
 # Usamos un iframe para mostrar el video. 
 # height=500 es la altura en pixeles.
